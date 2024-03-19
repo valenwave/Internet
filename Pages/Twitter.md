@@ -1,5 +1,7 @@
 # Twitter
 
+It's hard to relevant news on Twitter anymore.
+
 ## Companies
 
 * [Ubisoft](https://twitter.com/Ubisoft) - 9.2M
@@ -24,15 +26,10 @@
 * [Barack Obama](https://twitter.com/BarackObama) - 132.6M
 * [Elon Musk](https://twitter.com/elonmusk) - 104M
 * [Joe Biden](https://twitter.com/JoeBiden) - 35.1M
-* [Neil Patrick Harris](https://twitter.com/ActuallyNPH) - 25.5M
 * [President](https://twitter.com/POTUS) - 24.6M
-* [Ryan Reynolds](https://twitter.com/VancityReynolds) - 20M
 * [Kamala Harris](https://twitter.com/KamalaHarris) - 19.9M
 * [Stephen Colbert](https://twitter.com/StephenAtHome) - 19.4M
-* [Jim Carrey](https://twitter.com/JimCarrey) - 19M
-* [Robert Downey Jr.](https://twitter.com/RobertDowneyJr) - 17.7M
 * [Neil deGrasse Tyson](https://twitter.com/neiltyson) - 14.7M
-* [Anna Kendrick](https://twitter.com/AnnaKendrick47) - 6.5M
 * [Marques Brownlee](https://twitter.com/MKBHD) - 6.1M
 * [Bill Nye](https://twitter.com/BillNye) - 5.7M
 * [John Oliver](https://twitter.com/iamjohnoliver) - 5.7M
@@ -44,16 +41,28 @@
 * [Queen of Degeneracy](https://twitter.com/Sydsnap) - 437.8K
 * [Dr. Mike Varshavshi](https://twitter.com/RealDoctorMike) - 348K
 * [Brian David Gilbert](https://twitter.com/briamgilbert) - 295.7K
-* [Morgan Webb](https://twitter.com/MorganWebb) - 224.4K
 * [Adam Conover](https://twitter.com/adamconover) - 216.3K
+* [Morgan Webb](https://twitter.com/MorganWebb) - 208.5K
 * [Emily Axford](https://twitter.com/eaxford) - 107.5K
-* [Cory House](https://twitter.com/housecor) - 53.1K
-* [Heather Feather](https://twitter.com/HeathFeathASMR) - 27.5K
-* [Jay Harris](https://twitter.com/jayharris) - 2340
-* [Mystical Battle Bunny](https://twitter.com/BunnyMystical) - 1357
+* [Heather Feather](https://twitter.com/HeathFeathASMR) - 25.9K
+* [Mystical Battle Bunny](https://twitter.com/BunnyMystical) - 1313
 
-## Gamer
+### Developer
+
+* [Cory House](https://twitter.com/housecor) - 114.6K
+* [Jay Harris](https://twitter.com/jayharris) - 2270
+
+### Gamer
 
 * [Markiplier](https://twitter.com/markiplier) - 14M
 * [Jacksepticeye](https://twitter.com/Jacksepticeye) - 7.7M
 * [MatPat](https://twitter.com/MatPatGT) - 5.6M
+* [Girlfriend Reviews](https://twitter.com/itsgfreviews) - 103.9K
+
+### Movie Celebrity
+
+* [Neil Patrick Harris](https://twitter.com/ActuallyNPH) - 24.4M
+* [Ryan Reynolds](https://twitter.com/VancityReynolds) - 21.5M
+* [Robert Downey Jr.](https://twitter.com/RobertDowneyJr) - 17.6M
+* [Anna Kendrick](https://twitter.com/AnnaKendrick47) - 6.5M
+* [Jim Carrey](https://twitter.com/JimCarrey) - 86
