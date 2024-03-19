@@ -1,14 +1,14 @@
 # YouTube Music
 
 * [Albums](/Pages/Entertainment/YouTubeMusic/Albums.md)
-* [Songs](/Pages/Entertainment/YouTubeMusic/Songs.md)
+* [Songs](/Pages/Entertainment/YouTubeMusic/Songs/Songs.md)
 
 ## Artist
 
-* [Hoang](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ) (9)
-* [Kurt Hugo Schneider](https://music.youtube.com/channel/UC-u3msJ-G8xYr931alnM7dw) (6)
-* [Nelly Furtado](https://music.youtube.com/channel/UCWV94Z763GSdhLQ8WIb2JRQ) (6)
-* [Nelly](https://music.youtube.com/channel/UCggm1vqFLAJdYDTc1DQoVKg) (5)
+* [Hoang](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ)
+* [Kurt Hugo Schneider](https://music.youtube.com/channel/UC-u3msJ-G8xYr931alnM7dw)
+* [Nelly Furtado](https://music.youtube.com/channel/UCWV94Z763GSdhLQ8WIb2JRQ)
+* [Nelly](https://music.youtube.com/channel/UCggm1vqFLAJdYDTc1DQoVKg)
 * [Elise Trouw](https://music.youtube.com/channel/UCOMfVxzGm8YgpmBuO8hT2qA)
 * [One Republic](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
 * Justin Beiber
