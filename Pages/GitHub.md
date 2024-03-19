@@ -3,6 +3,7 @@
 ## Projects
 
 * [Markdownlint](https://github.com/DavidAnson/markdownlint)
+* [SimpleNote](https://github.com/Automattic/simplenote-electron)
 
 ## Markdownlint
 
