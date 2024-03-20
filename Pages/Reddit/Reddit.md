@@ -16,11 +16,17 @@
 * [Marvel Studios](https://www.reddit.com/r/marvelstudios/)
 * [What If Marvel](https://www.reddit.com/r/WhatIfMarvel/)
 
+## Eatery
+
+* [Five Guys](https://www.reddit.com/r/fiveguys)
+
 ## People
 
 * [Weird Al](https://www.reddit.com/r/weirdal/)
 
 ## Shows
 
+* [Doctor Who](https://www.reddit.com/r/doctorwho)
 * [Invincible](https://www.reddit.com/r/Invincible/)
 * [Loki](https://www.reddit.com/r/loki/)
+* [Moon Knight](https://www.reddit.com/r/MoonKnight)

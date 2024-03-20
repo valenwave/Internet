@@ -7,7 +7,6 @@
 * [Danganronpa](https://www.reddit.com/r/danganronpa/)
 * [Diablo Immortal](https://www.reddit.com/r/DiabloImmortal/)
 * [Dragon Quest](https://www.reddit.com/r/dragonquest/)
-* [Elder Scrolls](https://www.reddit.com/r/ElderScrolls/)
 * [Hitman](https://www.reddit.com/r/HiTMAN/)
 * [League of Legends](https://www.reddit.com/r/leagueoflegends/)
 * [Little Nightmares](https://www.reddit.com/r/LittleNightmares/)
@@ -18,6 +17,12 @@
 * [This War of Mine](https://www.reddit.com/r/ThisWarofMine/)
 * [Undertale](https://www.reddit.com/r/Undertale/)
 * [Yugioh](https://www.reddit.com/r/yugioh/)
+
+## Elder Scrolls
+
+* [Arena](https://www.reddit.com/r/Arena)
+* [Elder Scrolls](https://www.reddit.com/r/ElderScrolls/)
+* [Morrowind](https://www.reddit.com/r/Morrowind)
 
 ## Final Fantasy
 
@@ -34,3 +39,4 @@
 
 * [Pokemon](https://www.reddit.com/r/pokemon/)
 * [Pokemon Scarlet Violet](https://www.reddit.com/r/PokemonScarletViolet/)
+* [Pokemon Showdown](https://www.reddit.com/r/pokemonshowdown)

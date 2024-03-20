@@ -1,6 +1,7 @@
 # Songs
 
 * [Covers](Covers.md)
+* [Remixes](Remixes.md)
 
 ## Base
 
