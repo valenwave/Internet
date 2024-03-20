@@ -1,7 +1,7 @@
 # YouTube Music
 
-* [Albums](/Pages/Entertainment/YouTubeMusic/Albums.md)
-* [Songs](/Pages/Entertainment/YouTubeMusic/Songs/Songs.md)
+* [Albums](Albums.md)
+* [Songs](Songs/Songs.md)
 
 ## Artist
 
