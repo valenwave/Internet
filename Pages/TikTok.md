@@ -23,6 +23,10 @@
 
 * [daterightstuff](https://www.tiktok.com/@daterightstuff): He makes sense on topics that I feel people are hush about because they want to be inclusive and supportive in the moment over the long term good.
 
+## Animation
+
+* [its_ok_koy](https://www.tiktok.com/@its_ok_koy)
+
 ## Skit
 
 * [julienolke](https://www.tiktok.com/@julienolke): Cute, pretty, creative skits.

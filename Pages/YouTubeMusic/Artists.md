@@ -6,6 +6,7 @@
 
 ## Enjoy singles
 
+* [Ed Sheeran](https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ)
 * [Hoang](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ)
 * [Justin Bieber](https://music.youtube.com/channel/UCGvj8kfUV5Q6lzECIrGY19g)
 * [Kurt Hugo Schneider](https://music.youtube.com/channel/UC-u3msJ-G8xYr931alnM7dw)
@@ -15,8 +16,7 @@
 
 ## Listen Queue
 
-* [Ed Sheeran](https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ)
-* Taylor Swift
+* [Taylor Swift](https://music.youtube.com/channel/UCPC0L1d253x-KuMNwa05TpA)
 * Shawn Mendez
 * Everences
 * TLC
