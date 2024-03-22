@@ -17,7 +17,7 @@
 
 ## Poetry lover
 
-* [whitneyhansonpoetry](https://www.tiktok.com/@whitneyhansonpoetry): Two differently colored eyes. Heartfelt poetry. 
+* [whitneyhansonpoetry](https://www.tiktok.com/@whitneyhansonpoetry): Two differently colored eyes. Heartfelt poetry.
 
 ## Thoughts
 
