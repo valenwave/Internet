@@ -13,6 +13,7 @@
 * [Mirrors Edge](https://www.reddit.com/r/mirrorsedge/)
 * [Overwatch](https://www.reddit.com/r/Overwatch/)
 * [Starcraft](https://www.reddit.com/r/starcraft/)
+* [Tears of the Kingdom](https://www.reddit.com/r/tearsofthekingdom)
 * [The Last of Us](https://www.reddit.com/r/thelastofus/)
 * [This War of Mine](https://www.reddit.com/r/ThisWarofMine/)
 * [Undertale](https://www.reddit.com/r/Undertale/)
@@ -22,6 +23,7 @@
 
 * [Arena](https://www.reddit.com/r/Arena)
 * [Elder Scrolls](https://www.reddit.com/r/ElderScrolls/)
+* [Elder Scrolls Online](https://www.reddit.com/r/elderscrollsonline)
 * [Morrowind](https://www.reddit.com/r/Morrowind)
 
 ## Final Fantasy

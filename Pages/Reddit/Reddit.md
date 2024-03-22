@@ -26,6 +26,7 @@
 
 ## Shows
 
+* [Black Mirror](https://www.reddit.com/r/blackmirror)
 * [Doctor Who](https://www.reddit.com/r/doctorwho)
 * [Invincible](https://www.reddit.com/r/Invincible/)
 * [Loki](https://www.reddit.com/r/loki/)
