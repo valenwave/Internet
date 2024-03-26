@@ -12,7 +12,6 @@
 * [Little Nightmares](https://www.reddit.com/r/LittleNightmares/)
 * [Mirrors Edge](https://www.reddit.com/r/mirrorsedge/)
 * [Overwatch](https://www.reddit.com/r/Overwatch/)
-* [Starcraft](https://www.reddit.com/r/starcraft/)
 * [Tears of the Kingdom](https://www.reddit.com/r/tearsofthekingdom)
 * [The Last of Us](https://www.reddit.com/r/thelastofus/)
 * [This War of Mine](https://www.reddit.com/r/ThisWarofMine/)
@@ -42,3 +41,8 @@
 * [Pokemon](https://www.reddit.com/r/pokemon/)
 * [Pokemon Scarlet Violet](https://www.reddit.com/r/PokemonScarletViolet/)
 * [Pokemon Showdown](https://www.reddit.com/r/pokemonshowdown)
+
+## Starcraft
+
+* [Starcraft](https://www.reddit.com/r/starcraft/)
+* [Starcraft 2](https://www.reddit.com/r/starcraft2/)
