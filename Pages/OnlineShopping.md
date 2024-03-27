@@ -1,7 +1,11 @@
 # General
 
-* [Amazon](https://www.amazon.com)
 * [Chromecast](https://store.google.com/us/product/chromecast_google_tv?hl=en-US&pli=1)
+
+## Amazon
+
+* [Amazon](https://www.amazon.com)
+* [Speed-Boil Electric Kettle for Coffee & Tea](https://www.amazon.com/Speed-Boil-Electric-Borosilicate-Shut-Off-Protection/dp/B0B2Q7N54S/ref=sr_1_5)
 
 ## Home Depot
 
