@@ -7,6 +7,7 @@
 * [Danganronpa](https://www.reddit.com/r/danganronpa/)
 * [Diablo Immortal](https://www.reddit.com/r/DiabloImmortal/)
 * [Dragon Quest](https://www.reddit.com/r/dragonquest/)
+* [Hades](https://www.reddit.com/r/HadesTheGame)
 * [Hitman](https://www.reddit.com/r/HiTMAN/)
 * [League of Legends](https://www.reddit.com/r/leagueoflegends/)
 * [Little Nightmares](https://www.reddit.com/r/LittleNightmares/)
