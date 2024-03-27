@@ -5,6 +5,7 @@
 * [Pinterest](/Pages/Pinterest.md)
 * [Reddit](/Pages/Reddit/Reddit.md)
 * [TikTok](/Pages/TikTok.md)
+* [YouTube](/Pages/YouTube.md)
 
 ## YouTube Music
 
