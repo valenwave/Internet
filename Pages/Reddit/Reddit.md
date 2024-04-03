@@ -4,6 +4,7 @@
 
 ## General
 
+- [April Fools](https://www.reddit.com/r/aprilfools/)
 - [Ask Reddit](https://www.reddit.com/r/AskReddit/)
 - [Parenting](https://www.reddit.com/r/Parenting/)
 - [Programmer Humor](https://www.reddit.com/r/ProgrammerHumor/)
