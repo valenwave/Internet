@@ -7,11 +7,6 @@
 * [TikTok](/Pages/TikTok.md)
 * [YouTube](/Pages/YouTube.md)
 
-## YouTube Music
-
-* [YouTube Music](/Pages/YouTubeMusic/YouTubeMusic.md)
-* [Artists](/Pages/YouTubeMusic/Artists.md)
-
 ## General
 
 * [Memebase](https://memebase.cheezburger.com/)
